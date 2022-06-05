@@ -1,0 +1,40 @@
+/* .navbar-brand {
+    letter-spacing: 3px;
+    color: #c24244;
+  }
+  
+  .navbar-brand:hover {
+      color: #c24244;
+  }
+  
+  .navbar-scroll .nav-link,
+  .navbar-scroll .fa-bars {
+    color: #7f4722;
+  }
+  
+  .navbar-scrolled .nav-link,
+  .navbar-scrolled .fa-bars {
+    color: #7f4722;
+  }
+  
+  .navbar-scrolled {
+    background-color: #ffede7;
+  } */
+
+  .navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+  .navbar-nav>.active>a {
+    
+    color: red !important;
+}
+.navbar-light .navbar-brand {
+    color:white !important;
+    background-color: red;
+    font-family: 'Scada'!important;
+font-style: normal !important;
+font-weight: 700 !important;
+font-size: 20px !important;
+line-height: 25px !important;
+}

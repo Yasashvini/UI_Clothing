@@ -1,0 +1,47 @@
+.orderTitle{
+    font-family: 'Jost';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 35px;
+color: #777777;
+text-align: left;
+}
+.orderId{
+    font-family: 'Jost' !important;
+font-style: normal !important;
+font-weight: 400 !important;
+font-size: 14px !important;
+line-height: 20px !important;
+
+color: #777777;
+
+}
+.price{
+    font-family: 'Jost' !important;
+font-style: normal !important;
+font-weight: 500 !important;
+font-size: 20px !important;
+line-height: 29px !important;
+color: #333333;
+}
+#pending{
+    font-family: 'Jost'  !important;
+font-style: normal  !important;
+font-weight: 400  !important;
+font-size: 14px  !important;
+line-height: 20px  !important;
+    background: #333333;
+border-radius: 6px 6px 0px 0px;
+color:white;
+}
+#delivered{
+    font-family: 'Jost' !important;
+font-style: normal  !important;
+font-weight: 400  !important;
+font-size: 14px  !important;
+line-height: 20px  !important;
+    background: #F3F3F3;
+    border-radius: 6px 6px 0px 0px;
+    color:#777777;
+}
