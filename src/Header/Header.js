@@ -68,20 +68,26 @@ const Header = () => {
               </a>
             </li>
           </ul>
-          <ul class="navbar-nav ml-auto nav-flex-icons">
+          <ul class="navbar-nav ml-auto nav-flex-icons" id="icons">
             <li class="nav-item">
               <a class="nav-link ">
-                <i class="fas fa-print"></i>
+                <i class="fa fa-search"></i>
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link ">
-                <i class="fab fa-safari"></i>
+                <i class="fa fa-shopping-cart"></i>
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link ">
-                <i class="far fa-image"></i>
+                <i class="fa fa-heart-o"></i>
+              </a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link ">
+                <i class="fas fa-user-alt"></i>
               </a>
             </li>
           </ul>

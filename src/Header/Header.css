@@ -38,3 +38,7 @@ font-weight: 700 !important;
 font-size: 20px !important;
 line-height: 25px !important;
 }
+#icons>li{
+    padding-left: 10px;
+    padding-right: 10px;
+}
